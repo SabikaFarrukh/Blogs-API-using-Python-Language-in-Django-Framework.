@@ -54,7 +54,7 @@ MIDDLEWARE = [
 
 
 
-ROOT_URLCONF = 'blog.urls'
+ROOT_URLCONF = 'config.urls'
 
 TEMPLATES = [
     {
